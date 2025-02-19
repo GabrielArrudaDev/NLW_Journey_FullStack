@@ -14,13 +14,6 @@ O **CodeCraft Summit 2025** é um projeto de sistema de inscrição para eventos
 - **CSS3**: Estilização da interface.
 - **JavaScript (ES6+)**: Lógica do sistema e manipulação do DOM.
 
-## Capturas de Tela
-### Página de Inscrição
-![Página de Inscrição](images/imgsreadme/inscricao.png)
-
-### Confirmação de Inscrição
-![Confirmação de Inscrição](images/imgsreadme/confirmacao.png)
-
 ## Estrutura do Projeto
 ```
 /
